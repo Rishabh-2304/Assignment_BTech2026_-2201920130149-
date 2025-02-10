@@ -1,4 +1,4 @@
-**Day 1: Problem Statement 25/01/25**
+Day 1: Problem Statement 25/01/25
 ```
 Problem Statement:
 Create a Java program to demonstrate inheritance by creating the following classes:
@@ -47,7 +47,7 @@ public class Main {
     }
 }
 ```
-**Day 2: Problem Statement-26/01/25**
+Day 2: Problem Statement-26/01/25
 ```
 Problem Statement:
 Create a Java program that demonstrates constructor chaining by using both constructors in a class and in a derived class.
@@ -88,7 +88,7 @@ public class Main {
 }
 
 ```
-**Day 3: Problem Statement-27/01/2025 **
+Day 3: Problem Statement-27/01/2025 
 ```
 Problem Statement:
 Create a Java program that demonstrates interfaces by defining an interface Payment and implementing it in different classes.
@@ -127,7 +127,7 @@ public class Main {
 
 
 ```
-**Day 4: Problem Statement-28/01/25 **
+Day 4: Problem Statement-28/01/25 
 ```
 Problem Statement:
 Create a Java program that demonstrates abstraction using the abstract keyword.
@@ -186,7 +186,7 @@ public class Main {
 }
 
 ```
-**Day 5: Problem Statement-29/01/25 **
+Day 5: Problem Statement-29/01/25 
 ```
 Problem Statement:
 Create a Java program to demonstrate polymorphism by implementing method overriding.
@@ -244,7 +244,7 @@ public class Main {
 }
 
 ```
-**Day 6: Problem Statement-30/01/25 **
+Day 6: Problem Statement-30/01/25 
 ```
 Problem Statement:
 Write a Java program to create a class Student with the following attributes:   id, name, age
@@ -281,7 +281,7 @@ public class Main {
     }
 }
 ```
-**Day 7: Problem Statement-31/01/25 **
+Day 7: Problem Statement-31/01/25 
 ```
 Problem Statement:
 Create a Java program to demonstrate Multiple Inheritance using Interfaces.
@@ -321,7 +321,7 @@ public class Main {
 }
 
 ```
-**Day 8: Problem Statement-01/02/25**
+Day 8: Problem Statement-01/02/25
 ```
 Problem Statement:
 Create a Java program to demonstrate method overloading by defining multiple methods with the same name but different parameters.
@@ -353,7 +353,7 @@ public class Main {
     }
 }
 ```
-**Day 9: Problem Statement-02/02/25 **
+Day 9: Problem Statement-02/02/25 
 ```
 Problem Statement:
 Create a Java program to demonstrate Abstraction using Abstract Classes.
@@ -413,7 +413,7 @@ public class Main {
 
 
 ```
-**Day 10: Problem Statement-03/02/25 **
+Day 10: Problem Statement-03/02/25 
 ```
 Problem Statement:
 Create a Java program to demonstrate Method Overriding and Runtime Polymorphism using inheritance.
@@ -455,7 +455,7 @@ public class Main {
 }
 
 ```
-**Day 11: Problem Statement-04/02/25 **
+Day 11: Problem Statement-04/02/25 
 ```
 Problem Statement:
 Create a Java program to demonstrate encapsulation by defining a class with private attributes and public getter and setter methods.
@@ -506,7 +506,7 @@ public class Main {
 }
 
 ```
-**Day 12: Problem Statement-05/02/25 **
+Day 12: Problem Statement-05/02/25 
 ```
 Problem Statement:
 Create a Java program to demonstrate the Singleton Design Pattern, ensuring only one instance of a class is created.
@@ -544,7 +544,7 @@ public class Main {
 }
 
 ```
-**Day 13: Problem Statement-06/02/25 **
+Day 13: Problem Statement-06/02/25 
 ```
 Problem Statement:
 Create a Java program that demonstrates encapsulation by creating a class BankAccount with the following private attributes:    accountNumber, accountHolderName, balance
@@ -614,7 +614,7 @@ public class Main {
     }
 }
 ```
-**Day 14: Problem Statement-07/02/25**
+Day 14: Problem Statement-07/02/25
 ```
 Problem Statement:
 Create a Java program to demonstrate Java Reflection by inspecting the methods and fields of a class dynamically.
